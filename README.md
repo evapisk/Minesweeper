@@ -1,0 +1,5 @@
+Final project for CS 101. 
+
+Cell and Board classes completely done by me -- worked with my teammates to complete the rest.
+
+A completely functional Minesweeper game written in Java and played on the console.
